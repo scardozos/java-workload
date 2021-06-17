@@ -10,4 +10,4 @@ In this repository you will find the configuration needed in order to make the "
 ## Managing the server
 
 In order to access the "JW" CLI you have to access the following command (as the minecraft user)  
-```screen -x root/minecraft```
+```sudo screen -x root/minecraft```
